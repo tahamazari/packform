@@ -1,0 +1,11 @@
+id,order_date,order_name,customer_company,customer_name,delivered_amount,total_amount
+1,2022-01-02T15:34:12Z,CAL #001-I,Facebook,Jeff,200,300
+2,2022-01-15T17:34:12Z,NYC #002-I,Twitter,Gates,100,150
+3,2022-01-05T05:34:12Z,PHL #003-I,Palantir,Homer,125,125
+4,2022-02-02T15:34:12Z,CAL #004-I,Accenture,Raza,482,480
+5,2022-01-03T10:34:12Z,ORG #005-I,Packform,Larry,290,300
+6,2022-01-02T15:34:12Z,ASK #001-P,SnapChat,Kishwar,120,120
+7,2022-01-15T17:34:12Z,FLD #002-P,Google,Sunil,300,300
+8,2022-01-05T05:34:12Z,WV #003-P,MailChimp,Peter,233,130
+9,2022-02-02T15:34:12Z,WYM #004-P,IBM,Ramos,599,340
+10,2022-01-03T10:34:12Z,CAL #005-P,Atlassian,Edward,400,230
