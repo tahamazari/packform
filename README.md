@@ -1,5 +1,9 @@
 # Set up instructions
 
+NODE_VERSION=v16.15.0  
+NPM_VERSION=8.5.5  
+PYTHON_VERSION=3.8.5  
+GO_VERSION=go1.18 windows/amd64
 ## Setup backend and migrations (Go)
 **cd backend**  
 Run this first using 'go run main.go'  

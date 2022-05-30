@@ -1,2 +1,4 @@
 /*/node_modules
 /*/package-lock.json
+/tests/cypress/screenshots/
+/tests/cypress/videos/
