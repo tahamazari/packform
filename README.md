@@ -1,7 +1,7 @@
 # Set up instructions
 
 ## Setup backend and migrations (Go)
-**cd backend**
+**cd backend**  
 Run this first using 'go run main.go'  
 Will create a table by name orders  
 and run the Rest App Server
@@ -9,19 +9,19 @@ and run the Rest App Server
 Will run on 'http://localhost:4000/'
 
 ## Run Seed Script (Python)
-**cd scripts**
+**cd scripts**  
 This will seed data into the table created in db  
 by reading the data from CSV  
 
 ## Serve the Frontend (Vue)
-**cd frontend**
+**cd frontend**  
 First run 'npm install' to install dependencies  
 Then run 'npm run serve' to run the app  
 
 Will run on 'http://localhost:8080/'
 
 ## Run Tests (Cypress)
-**cd tests**
+**cd tests**  
 First run 'npm install' to install dependencies  
 Make sure the frontend and backend are running before running tests  
 Run following commands to run the tests, for each spec individually  
